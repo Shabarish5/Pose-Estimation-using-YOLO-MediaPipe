@@ -30,6 +30,7 @@ Model Files Required
 Download the YOLO model weights and config before running:
 
 wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4.weights
+
 wget https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg
 
 Place them in the project directory.
